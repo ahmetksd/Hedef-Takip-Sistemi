@@ -1,6 +1,8 @@
 # Hedef-Takip-Sistemi
 Dönem Projesi Olarak Hedef Takip Sistemi Projesi Yapılmıştır
 
+https://ahmetksd.github.io/Hedef-Takip-Sistemi/
+
 🔹 1. Projenin Amacı
 
 Bu projenin amacı, kullanıcıların kişisel veya akademik hedeflerini belirleyip, bu hedeflerdeki ilerlemelerini takip edebilecekleri bir web tabanlı sistem geliştirmektir.
