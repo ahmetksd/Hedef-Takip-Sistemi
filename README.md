@@ -35,7 +35,7 @@ JavaScript (ES6)	Hedef ekleme, silme, güncelleme işlemleri ve dinamik içerik 
 LocalStorage API	Hedef verilerinin tarayıcıda saklanmasını sağladı.
 
 🔹 4. Proje Tasarımı ve Çalışma Prensibi
-4.1. Genel İşleyiş
+1. Genel İşleyiş
 
 Kullanıcı, ekrandaki form aracılığıyla bir hedef adı, açıklama ve başlangıç tarihi girer.
 
